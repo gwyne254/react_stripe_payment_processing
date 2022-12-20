@@ -1,8 +1,6 @@
 # react_stripe_payment_processing
 This is React web application emulating payments processing with Stripe.
 
-## Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
